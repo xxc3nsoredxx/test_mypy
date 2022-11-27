@@ -33,5 +33,5 @@ you want to call the shape to distinguish it in the output.
 The typed version has a few extra bits compared to the untyped version:
 
 - ``Shape``: protocol class to define what it means to "be a shape" -- provide
-  an ``area()`` function that returns a ``Number``.
+  an ``area()`` function that returns a ``Number``
 - ``Number``: type alias for "anything that's an ``int`` or a ``float``"
